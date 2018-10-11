@@ -1,0 +1,33 @@
+Provide 3 references 
+
+Name: Seelan Tharmalingam
+Title :   System Architect BI
+Organization: Telus Co.
+Phone# :  (647) 515-5345
+
+
+Name: Mr Chandima Fonseka
+Title :  Senior Team Lead
+Organization: eHealth Ontario
+Phone# :  (416) 564-1290
+
+Name: Mr Binu Barguesi
+Title :  Senior Team Lead
+Organization: Travel Insurance Coordinators/Alliance Insurers
+Phone# :  (416) 624-1353
+
+Name : Mr Dave Brajkovich
+Title Director of Software Development
+Organization : Gammna Medicare Medical Laboratories
+Phone#: 800.565.5721
+
+Name: Gino Crofton
+Title :   Vice President of  Application Develpment
+Organization: Capital-G Bank
+Phone# :  441 296 6969
+
+Name: Bobby Ghose
+Title :  Project Manager of Software Applications  
+Organization: TD Canada Trust
+Phone# :  416.786.1334
+email:  bobbyghose@gmail.com
